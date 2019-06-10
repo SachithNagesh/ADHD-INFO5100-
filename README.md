@@ -1,14 +1,12 @@
 # Reward Based solution for ADD/ADHD Children
 
-## About the project
+Project Explanation in detail - https://web.northeastern.edu/is-co-op-stories/student-projects/
 
-* This an Java Swing Project on Netbeans.
-* Only focused on children from 10 – 14 yrs.
-* An sociotechnical ecosystem consisting of the child, parent, teacher and doctor, all working together to support the child.
-* Reduction in human intervention with the child. 
-* Reduction in pill consumption. 
-* Reward based system to analyze the progress of the child.
-* Carefully selected Behavioral questions for the doctor to study the child.
+## About the project
+* A Socio-Technical Ecosystem for the ADHD child, parent, doctor and the teacher, all working together to help the child.
+* Should theoretically reduce the usage of drugs and human intervention between the child and the helping parties.
+* Built using Java swings with video rewards and Text Alerts using DJ Native and Twilio SMS API.
+* Next steps include converting the application into Android/iOS application for real working application.
 
 ## Running the App
 
