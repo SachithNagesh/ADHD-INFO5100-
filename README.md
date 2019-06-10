@@ -13,3 +13,5 @@ Project Explanation in detail - https://web.northeastern.edu/is-co-op-stories/st
 * Download/Clone the respository
 * Load the project in Netbeans
 * Build and Run the project
+
+Team Radix – Christy Joseph Anoop, Michelle Pradeep & Sachith Nagesh
